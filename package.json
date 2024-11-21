@@ -1,0 +1,21 @@
+{
+  "name": "ativrapper2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rapper",
+    "suspeitos",
+    "descricaoFisica"
+  ],
+  "author": "Julinha",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
